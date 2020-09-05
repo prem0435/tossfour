@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.poagdmgimns.Andrioidexample"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Toss 4</name>
+
+  <description>
+      random tossing among four people
+  </description>
+
+  <author email="premchandk.be17@uceou.edu">
+      Prem Chand Kadaru
+  </author>
+  
+  <icon src="icon.png" />
+
+</widget>
